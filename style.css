@@ -1,0 +1,50 @@
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 35px;
+}
+
+.solid{
+    border: 2px solid #3434f2;
+    width: 24%;
+    margin-top: 9px;
+    margin-left: 36px;
+}
+
+.name{
+    text-align: center;
+    font-family: monospace;
+}
+
+
+.login{
+    text-align: center;
+    font-family: monospace;
+}
+
+.follow{
+    text-align: inherit;
+    margin-left: -50px;
+    font-family: monospace;
+}
+
+.search{
+    width: 26%;
+    height: 34px;
+    border: 0;
+    background: #faebd7cc;
+    border-radius: 40px;
+    outline: none;
+    text-align: center;
+    margin-left: 2%;
+}
+
+.btn   {
+        border: 0;
+        height: 29px;
+        width: 6%;
+        border-radius: 40px;
+        background: #c7b2de;
+        color: #00000094;
+    }
